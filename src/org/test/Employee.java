@@ -22,5 +22,10 @@ public class Employee {
 	public void setPhono(long phono) {
 		this.phono = phono;
 	}
+	
+	private void sysout() {
+		System.out.println("hai");
+
+	}
 
 }
